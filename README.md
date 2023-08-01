@@ -33,6 +33,7 @@
 - [zoom-python-webhook](https://github.com/SamuelGuillemet/zoom-python-webhook) - **FastAPI** modular appliocation to handle Zoom Webhooks.
 - [ms-python-client](https://github.com/cern-vc/ms-python-client) - **Python** package used to interact with the Microsoft Graph API.
 - [zoom-python-client](https://github.com/cern-vc/zoom-python-client) - Add support for Zoom Rooms in the **Python** package client for Zoom API.
+- [cern-paella-plugins](https://github.com/cern-vc/cern-paella-plugins) - Repository for Paella Player plugins publish to NPM.
 
 ---
 <div align="center">
