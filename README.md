@@ -10,16 +10,18 @@
 
 ### Academic:
 
-- [NET4104-ESP32-Project](https://github.com/SamuelGuillemet/NET4104-ESP32-Project) - Connected lock project with ESPs and **MicroPython**.
-- [igloo](https://github.com/SamuelGuillemet/igloo) - Object-oriented specification, design and programming of a **Java** project.
-- [route-planer](https://github.com/SamuelGuillemet/route-planer) - Test driven **Python** project to compute route in Paris subway.
+- [SEAK](https://github.com/SamuelGuillemet/SEAK) - **Java** and **Kafka** project which emulates a financial broker.
 - [Medieval-Quest](https://github.com/SamuelGuillemet/Medieval-Quest) - **Unity** project for a hack'n slash.
-- [bookShelf](https://github.com/SamuelGuillemet/bookShelf) - Small **PHP** project to manage collections of books.
 - [MarioIA](https://github.com/SamuelGuillemet/MarioIA) - **Unity** project using ML to train AI in Mario Bros levels.
+- [igloo](https://github.com/SamuelGuillemet/igloo) - Object-oriented specification, design and programming of a **Java** project.
+- [NET4104-ESP32-Project](https://github.com/SamuelGuillemet/NET4104-ESP32-Project) - Connected lock project with ESPs and **MicroPython**.
+- [route-planer](https://github.com/SamuelGuillemet/route-planer) - Test driven **Python** project to compute route in Paris subway.
+- [bookShelf](https://github.com/SamuelGuillemet/bookShelf) - Small **PHP** project to manage collections of books.
 
 ### Clochette :
 
 - [clochette](https://github.com/Clochette-AbsINThe/clochette) - Website for the management of TSP's Absinthe bar, using **FastAPI**, **NextJS**.
+- [fastapi-starter](https://github.com/xanode/fastapi-starter) - Stater build from clochette project.
 
 ### Cassiopée :
 
@@ -39,45 +41,13 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SamuelGuillemet&show_icons=true&number_format=long&count_private=true&hide_rank=true&hide=contribs&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=SamuelGuillemet&show_icons=true&number_format=long&count_private=true&rank_icon=github&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SamuelGuillemet&show_icons=true&number_format=long&count_private=true&hide_rank=true&hide=contribs"
+    srcset="https://github-readme-stats.vercel.app/api?username=SamuelGuillemet&show_icons=true&number_format=long&count_private=true&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelGuillemet&show_icons=true&number_format=long&count_private=true&hide_rank=true&hide=contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelGuillemet&show_icons=true&number_format=long&count_private=true&rank_icon=github" />
 </picture>
 </div>
-
----
-
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelGuillemet&langs_count=10&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelGuillemet&langs_count=10&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelGuillemet&langs_count=10&layout=compact" />
-</picture>
-</div>
-
-
-<!--
-**SamuelGuillemet/SamuelGuillemet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
