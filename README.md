@@ -7,6 +7,11 @@
 - [SiteWeb-LS](https://github.com/SamuelGuillemet/SiteWeb-LS) - Personnal Website using **Django**. 
 - [WallBox](https://github.com/SamuelGuillemet/WallBox) - Deamon app in **NodeJS** to inetract with WallBox API.
 - [BomberGame](https://github.com/SamuelGuillemet/BomberGame) - **Processing** oriented object bomberman game.
+- [Cuitot et Chariot](https://github.com/SamuelGuillemet/cuistot-et-chariot) - Fullstack app using **React** and **Convex** to handle recipes and shopping lists.
+- [Gestion de projet](https://github.com/SamuelGuillemet/gestion-projet) - Local-first project management application built in **React** similar to Trello.
+- [Log aggregator](https://github.com/SamuelGuillemet/log-aggregator) - Local-first log aggregation for clustered application logs built in **React** and with a small **NodeJS** server.
+- [Skull king score](https://github.com/SamuelGuillemet/Skull-king-score) - Skull King score-keeping **PWA** app.
+- [Secret Santa](https://github.com/SamuelGuillemet/secret-santa) - A small app with shareable links to make a secret santa.
 
 ### Academic:
 
